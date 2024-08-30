@@ -1,4 +1,4 @@
-# Multi-Camera-Person-Tracking-with-Tragectory
+# Multi-Camera-Person-Tracking-with-Trajectory
 
 ## Introduction
 
